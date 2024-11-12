@@ -4,5 +4,5 @@ if preu_entrada_1graderia == preu_entrada_2graderia:
     print("Les entrades tenen el mateix preu")
 elif preu_entrada_1graderia < preu_entrada_2graderia:
     print("Les entrades de segona graderia són més cares")
-else preu_entrada_1graderia > preu_entrada_2graderia:
+else :
     print("Les entrades de primera graderia són més cares")
