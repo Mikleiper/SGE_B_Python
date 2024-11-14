@@ -1,4 +1,4 @@
-salari = 20000
+salari = 45000
 if salari < 15000:
     salari_total = salari
 elif salari < 30000:
