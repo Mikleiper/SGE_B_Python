@@ -14,3 +14,6 @@
 
 ## Diagrama de fluxe per exercici 5
  ![alt text](IMG_20241120_225141.jpg)
+
+## Diagrama de fluxe per exercici 6
+ ![alt text](IMG_20241120_232756.jpg)
