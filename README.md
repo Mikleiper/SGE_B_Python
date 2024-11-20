@@ -6,3 +6,8 @@ Diagrama de fluxe per exercici 1
 Diagrama de fluxe per exercici 2
 ![alt text](image.png)
  
+Diagrama de fluxe per exercici 3
+ ![alt text](image-2.png)
+
+ Diagrama de fluxe per exercici 3
+ ![alt text](IMG_20241120_223055.jpg)
