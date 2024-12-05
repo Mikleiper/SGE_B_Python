@@ -39,3 +39,5 @@ cotxe_3.setPotenica(115)
 #i el mostrem amb get
 print(cotxe_3.getPotenica())
 
+
+
